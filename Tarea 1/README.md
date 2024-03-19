@@ -2,16 +2,16 @@
 
 ## Tabla de Contenidos
 
-1. [El Movimiento #MeToo](#el-movimiento-metoo)
-1. [El Efecto Pence](#el-efecto-pence)
+1. [Movimiento #MeToo](#el-movimiento-metoo)
+1. [Efecto Pence](#el-efecto-pence)
 1. [Opinión](#opinión)
 1. [Referencias Bibliográficas](#referencias-bibliográficas)
 
-### El movimiento #MeToo
+### Movimiento #MeToo
 
 
 
-### El Efecto Pence
+### Efecto Pence
 
 
 
