@@ -112,3 +112,45 @@ ul {
     display: grid;
     grid-template-columns: max-content 200px 1fr;
   }
+
+  /*.container {
+    width: 200px;
+    display: grid;
+    grid-template-areas: "a a a a";
+    gap: 30px;
+    grid-auto-rows: 250px;
+  }
+  */
+
+  .product {
+    background-color: lightblue;
+    border: 1px solid #ffff;
+    width: 450px;
+    height: 250px;
+  }
+
+  .top {
+    background-color: lightblue;
+  }
+
+  .header {
+    background-color: lightgray;
+    height: 30px;
+  }
+
+  .footer {
+    background-color: darkgray;
+    height: 30px;
+    margin-top: 1rem;
+  }
+
+  .item {
+    display: grid;
+    grid-template-columns: max-content 200px 1fr;
+  }
+
+  .carousel-item img {
+    width: 100%;
+    max-height: 600px; /* Ajusta la altura máxima de las imágenes del carrusel */
+  }
+  
